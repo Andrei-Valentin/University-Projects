@@ -1,5 +1,5 @@
 
-# Proiecte Universitate
+# University Projects
 
-Proiecte anii I-III, FMI Universitatea din Bucuresti
+Mathematics and Computer Science, University of Bucharest
 
